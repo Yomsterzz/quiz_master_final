@@ -1,0 +1,11 @@
+Which country has only flag that is not a quadrilateral?,Switzerland,Nepal,Vatican City,Monaco,2
+What is the capital of Canada?,Vancouver,Toronto,Edmonton,Ottowa,4
+What is 25 x 6?,175,125,150,250,3
+What are a group of crows called?,A murder,A crowd,A pride,A cluster,1
+What is the smallest planet in our solar system?,Saturn,Neptune,Mercury,Venus,3
+Which country has the most pyramids in the world?,Egypt,Mexico,Algeria,Sudan,4
+What is the longest bone?,Femur,Fibula,Humerus,Tibia,1
+What is the biggest mountain in this list?,Olympus Mons,Mount Denali,Mount Kilimanjaro,Mount Everest,1
+What is the biggest animal?,Giraffe,Whale Shark,Blue Whale,Bush Elephant,3
+What is the smallest animal?,Dart Frog,Speckled Tortoise,Hummingbird,Etruscan Shrew,4
+What did Tim Berners Lee invent?,Internet,World Wide Web,Deep Web,Google,2
